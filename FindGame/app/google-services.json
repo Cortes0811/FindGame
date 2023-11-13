@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739479873728",
+    "project_id": "find-game-f69c0",
+    "storage_bucket": "find-game-f69c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739479873728:android:95bb4d902e229104b8a525",
+        "android_client_info": {
+          "package_name": "com.example.findgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739479873728-ng7k3225ve2jbbrsjvc01pui6rejbmai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findgame",
+            "certificate_hash": "d91850f2e662eeb3698100e63e0132076e7e8dcb"
+          }
+        },
+        {
+          "client_id": "739479873728-e1tf1rrh5s4144v3ikifmas0totbplhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVu_UywDhm6LSuEYb4OT5wu1tT_kDNQq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739479873728-e1tf1rrh5s4144v3ikifmas0totbplhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
